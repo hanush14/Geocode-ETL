@@ -11,6 +11,8 @@ This project encompasses a comprehensive ETL (Extract, Transform, Load) pipeline
     - Data cleansing operations are performed to ensure data quality, including the removal of duplicates and correction of anomalies.
 3. **Load**: The cleaned and enriched data is loaded into an SQL database, making it readily available for reporting, analysis, and visualization.
 
+![DALL·E 2024-02-19 18 19 31](https://github.com/hanush14/Geocode-ETL/assets/4678423/4a87b3e9-9c13-4860-a24a-414d990adbae)
+
 ## Technologies Used
 - **Python**: The primary programming language for scripting the ETL process.
 - **Pandas**: A Python library used for data manipulation and analysis.
