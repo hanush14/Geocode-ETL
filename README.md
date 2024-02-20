@@ -1,4 +1,4 @@
-# Geocoding ETL Project
+# Crime Analytics - ETL
 
 ## Overview
 This project encompasses a comprehensive ETL (Extract, Transform, Load) pipeline designed for the enhancement and optimization of Boston crime incident data (https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system). The primary objective is to extract data from CSV files, transform it by filling in missing geocodes (latitude and longitude) using an external geocoding API, and finally load the enriched data into a SQL database for further analysis and querying.
